@@ -1,0 +1,168 @@
+@media (min-width:320px) and (max-width:575px){
+    .title-head {
+        font-size: 15px;
+    }
+    .border-div .border-cen {
+        border-bottom: 5px solid #f77444;
+        margin-top: -20px;
+    }
+    .title-second {
+        font-size: 14px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 100%;
+        overflow-x: hidden;
+        overflow: hidden;
+    }
+    .video-title {
+        font-size: 13px;
+        padding: 10px 0px;
+    }
+    .btnn button {
+        width: 220px;
+        height: 40px;
+        font-size: 16px;
+    }
+    img, svg {
+        vertical-align: middle;
+        width: 100%;
+    }
+    .package-cnt h2 {
+        font-size: 15px;
+    }
+    .package-cnt .border-cnt {
+        width: 50%;
+    }
+    .order-cnt h4 {
+        font-size: 13px;
+        text-align: center;
+    }
+    .contact {
+        font-size: 14px;
+    }
+    .contact-number a {
+        font-size: 12px;
+    }
+    .reason-title h1 {
+        font-size: 21px;
+    }
+    .reason-left {
+        padding-left: 0px;
+    }
+    .reason-left p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .reason-right p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .reason-title-end h3 {
+        font-size: 16px;
+    }
+    .reason-p {
+        font-size: 14px;
+    }
+    .point .common h5 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .point .common p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .head-title h3 {
+        font-size: 19px;
+    }
+    .order-heading p {
+        font-size: 18px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .hhh {
+        margin-top: -30px;
+    }
+    .cnt{
+        display:none;
+    }
+    .cash p {
+        padding: 10px 35px 0;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .order-btnn button {
+        font-size: 18px;
+        font-weight: 500;
+        width: 80%;
+        height: 56px;
+    }
+    .terms-condition .terms-btn {
+        width: 191px;
+    }
+    .terms-btn a {
+
+        font-size: 16px;
+
+    }
+    .phone {
+        width: 45px;
+        height: 45px;
+        text-align: center;
+        line-height: 45px;
+        background-color: #54f095;
+        border-radius: 50%;
+        font-size: 20px;
+        font-weight: 700;
+        color: #fff;
+    }
+    .phone {
+
+        left: 13px;
+
+    }
+    .messenger {
+        width: 45px;
+        height: 45px;
+        text-align: center;
+        line-height: 45px;
+        background-color: #4ebaf8;
+        border-radius: 50%;
+        font-size: 21px;
+        font-weight: 700;
+        color: #fff;
+    }
+    .messenger {
+        position: fixed;
+        bottom: 82px;
+        left: 13px;
+        z-index: 99999;
+    }
+    .wrong {
+        width: 45px;
+        height: 45px;
+        text-align: center;
+        line-height: 45px;
+        background-color: #979fcf;
+        border-radius: 50%;
+        font-size: 21px;
+        font-weight: 700;
+        color: #fff;
+    }
+    .wrong {
+        position: fixed;
+        bottom: 30px;
+        left: 13px;
+        z-index: 99999;
+    }
+}
+@media (min-width:576px) and (max-width:767px){
+
+}
+@media (min-width:768px) and (max-width:991px){
+
+}
+@media (min-width:992px) {
+
+}
